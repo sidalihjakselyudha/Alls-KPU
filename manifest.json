@@ -1,6 +1,6 @@
 {
   "name": "Sistem E-Data Pemilih KPU Jaksel",
-  "short_name": "E-Data Pemilih KPU",
+  "short_name": "Sistem E-Data Pemilih KPU",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#1e1b4b",
