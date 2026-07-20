@@ -1,6 +1,6 @@
 {
-  "name": "Sistem E-Data Pemilih KPU Jaksel",
-  "short_name": "Sistem E-Data Pemilih KPU",
+  "name": "Sistem Informasi E-Data Pemilih KPU Jaksel",
+  "short_name": "Sistem Informasi E-Data Pemilih KPU",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#1e1b4b",
