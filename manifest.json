@@ -1,6 +1,6 @@
 {
-  "name": "Sistem Informasi E-Data Pemilih KPU Jaksel",
-  "short_name": "Sistem Informasi E-Data Pemilih KPU",
+  "name": "Pengaduan Layanan Terintegrasi KPU Jaksel",
+  "short_name": "Pengaduan Layanan Terintegrasi KPU Jaksel",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#1e1b4b",
