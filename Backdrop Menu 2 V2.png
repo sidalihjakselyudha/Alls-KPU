@@ -1,3 +1,0 @@
-git mv "Backdrop Menu 2 V2.png" "Backdrop Menu 2.png"
-git commit -m "Rename backdrop image"
-git push origin main
